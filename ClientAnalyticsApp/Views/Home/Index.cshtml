@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ClientManagementLibrary.Models.Client>
+
+@{
+    ViewData["Title"] = "Client Analytics";
+}
+
+<h2>Client Analytics</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No clients found.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Client Name</th>
+                <th>Date Registered</th>
+                <th>Location</th>
+                <th>Number of Users</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var client in Model)
+            {
+                <tr>
+                    <td>@client.ClientName</td>
+                    <td>@client.DateRegistered.ToShortDateString()</td>
+                    <td>@client.Location</td>
+                    <td>@client.NumberOfUsers</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

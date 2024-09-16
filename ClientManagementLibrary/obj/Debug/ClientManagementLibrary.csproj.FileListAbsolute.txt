@@ -1,0 +1,6 @@
+C:\Users\M4BOHO\Desktop\AdaptIT\ClientManagementLibrary\bin\Debug\ClientManagementLibrary.dll
+C:\Users\M4BOHO\Desktop\AdaptIT\ClientManagementLibrary\bin\Debug\ClientManagementLibrary.pdb
+C:\Users\M4BOHO\Desktop\AdaptIT\ClientManagementLibrary\obj\Debug\ClientManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\M4BOHO\Desktop\AdaptIT\ClientManagementLibrary\obj\Debug\ClientManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\M4BOHO\Desktop\AdaptIT\ClientManagementLibrary\obj\Debug\ClientManagementLibrary.dll
+C:\Users\M4BOHO\Desktop\AdaptIT\ClientManagementLibrary\obj\Debug\ClientManagementLibrary.pdb
