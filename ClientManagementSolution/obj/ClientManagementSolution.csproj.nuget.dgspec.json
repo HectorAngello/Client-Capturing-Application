@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\M4BOHO\\Desktop\\AdaptIT\\ClientManagementSolution\\ClientManagementSolution.csproj": {}
+    "C:\\Users\\M4BOHO\\Desktop\\Client-Capturing-Application\\ClientManagementSolution\\ClientManagementSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\M4BOHO\\Desktop\\AdaptIT\\ClientManagementSolution\\ClientManagementSolution.csproj": {
+    "C:\\Users\\M4BOHO\\Desktop\\Client-Capturing-Application\\ClientManagementSolution\\ClientManagementSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\M4BOHO\\Desktop\\AdaptIT\\ClientManagementSolution\\ClientManagementSolution.csproj",
+        "projectUniqueName": "C:\\Users\\M4BOHO\\Desktop\\Client-Capturing-Application\\ClientManagementSolution\\ClientManagementSolution.csproj",
         "projectName": "ClientManagementSolution",
-        "projectPath": "C:\\Users\\M4BOHO\\Desktop\\AdaptIT\\ClientManagementSolution\\ClientManagementSolution.csproj",
+        "projectPath": "C:\\Users\\M4BOHO\\Desktop\\Client-Capturing-Application\\ClientManagementSolution\\ClientManagementSolution.csproj",
         "packagesPath": "C:\\Users\\M4BOHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\M4BOHO\\Desktop\\AdaptIT\\ClientManagementSolution\\obj\\",
+        "outputPath": "C:\\Users\\M4BOHO\\Desktop\\Client-Capturing-Application\\ClientManagementSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M4BOHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
